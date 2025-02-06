@@ -92,4 +92,7 @@ The following dependencies are used in this project:
 - Werkzeug: A utility library for WSGI web applications (2.3.0)
 
 ## Author
-Gabriela Alvarenga.
+@shturno
+
+## Contact
+You can contact me at [email](mailto:gabriel.dsalvarenga@gmail.com)
